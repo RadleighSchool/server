@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1681914579398
+  login: 1681914572201
+money: '0'
+last-account-name: Silverwolf69
+logoutlocation:
+  world: 0bd8c605-3d04-4952-b2ec-1a350090926d
+  world-name: world
+  x: -23.96732943204246
+  y: 71.0
+  z: -152.079854338165
+  yaw: -150.1499786376953
+  pitch: 7.500000953674316
